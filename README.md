@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Programming Languages
+
+- C#
+- C/C++
+- Java
+- JavaScript
+- Python
+- Swift
+- TypeScript
+
+#### Frameworks and Tools...
+
+- Desktop App
+  - Windows Froms App (C#)
+- Mobile App
+  - Storyboard (Swift)
+- Web
+  - Backend
+    - Django
+      - django-cors-headers
+      - Django REST framework
+  - Frontend
+    - Ant Design
+    - Bootstrap
+      - BootstrapVue
+      - Reactstrap
+    - Material UI
+    - Reactjs
+    - Vuejs
+    - Vuetify
+  - Other
+    - AWS
+    - DigitalOcean
+- Other
+  - Docker
