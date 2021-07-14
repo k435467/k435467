@@ -36,6 +36,7 @@ Here are some ideas to get you started:
     - Django
       - django-cors-headers
       - Django REST framework
+    - Next.js
   - Frontend
     - Ant Design
     - Bootstrap
@@ -45,6 +46,8 @@ Here are some ideas to get you started:
     - Reactjs
     - Vuejs
     - Vuetify
+  - ORM
+    - Prisma
   - Other
     - AWS
     - DigitalOcean
