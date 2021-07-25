@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Python
 - Swift
 - TypeScript
-- Golang
+- Go
 
 #### Frameworks and Tools...
 
