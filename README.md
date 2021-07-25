@@ -24,13 +24,14 @@ Here are some ideas to get you started:
 - Python
 - Swift
 - TypeScript
+- Golang
 
 #### Frameworks and Tools...
 
 - Desktop App
   - Windows Froms App (C#)
 - Mobile App
-  - Storyboard (Swift)
+  - UIKit (Swift)
 - Web
   - Backend
     - Django
