@@ -53,5 +53,6 @@ Here are some ideas to get you started:
   - Other
     - AWS
     - DigitalOcean
+    - LINE Bot
 - Other
   - Docker
