@@ -37,16 +37,17 @@ Here are some ideas to get you started:
     - Django
       - django-cors-headers
       - Django REST framework
-    - Next.js
+    - Spring
   - Frontend
     - Ant Design
     - Bootstrap
       - BootstrapVue
       - Reactstrap
-    - Material UI
+    - Material-UI
     - Reactjs
     - Vuejs
     - Vuetify
+    - Next.js
   - ORM
     - Prisma
   - Other
