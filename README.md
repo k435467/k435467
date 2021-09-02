@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - TypeScript
 - Go
 
-#### Frameworks and Tools...
+#### Skills, Frameworks, Tools...
 
 - Desktop App
   - Windows Froms App (C#)
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   - UIKit (Swift)
 - Web
   - Backend
+    - SQL
     - Django
       - django-cors-headers
       - Django REST framework
@@ -55,4 +56,5 @@ Here are some ideas to get you started:
     - DigitalOcean
     - LINE Bot
 - Other
-  - Docker
+  - Linux Shell
+  - Docker, Docker Compose
