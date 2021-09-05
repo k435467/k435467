@@ -56,6 +56,7 @@ Here are some ideas to get you started:
       - BootstrapVue
       - Reactstrap
     - Material-UI
+    - Axios
     - Reactjs
     - Vuejs
     - Vuetify
