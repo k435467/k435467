@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 - Web
   - Backend
     - SQL
+    - MySQL
     - Django
       - django-cors-headers
       - Django REST framework
