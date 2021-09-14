@@ -47,10 +47,11 @@ Here are some ideas to get you started:
   - Backend
     - SQL
     - MySQL
+    - MongoDB
     - Django
       - django-cors-headers
       - Django REST framework
-    - Spring
+    - Spring Boot
   - Frontend
     - Ant Design
     - Bootstrap
