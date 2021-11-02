@@ -39,16 +39,19 @@ Here are some ideas to get you started:
 - Web
   - Backend
     - SQL
+    - MySQL
+    - MongoDB
     - Django
       - django-cors-headers
       - Django REST framework
-    - Spring
+    - Spring Boot
   - Frontend
     - Ant Design
     - Bootstrap
       - BootstrapVue
       - Reactstrap
     - Material-UI
+    - Axios
     - Reactjs
     - React Router
     - Vuejs
