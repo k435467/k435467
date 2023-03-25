@@ -1,9 +1,3 @@
-# Contents
-
-- [Contents](#contents)
-  - [Programming Languages](#programming-languages)
-  - [Skills, Frameworks, Tools...](#skills-frameworks-tools)
-
 <!--
 **k435467/k435467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,53 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I'm a Frontend Developer
 
-## Programming Languages
-
-- C#
-- C/C++
-- Java
-- JavaScript
-- Python
-- Swift
-- TypeScript
-- Go
-
-## Skills, Frameworks, Tools...
-
-- Desktop App
-  - Windows Froms App (C#)
-- Mobile App
-  - UIKit (Swift)
-- Web
-  - Backend
-    - SQL
-    - MySQL
-    - MongoDB
-    - Django
-      - django-cors-headers
-      - Django REST framework
-    - Spring Boot
-  - Frontend
-    - Ant Design
-    - Bootstrap
-      - BootstrapVue
-      - Reactstrap
-    - Material-UI
-    - Axios
-    - Reactjs
-    - React Router
-    - Vuejs
-    - Vue Router
-    - Vuex
-    - Vuetify
-    - Next.js
-  - ORM
-    - Prisma
-  - Other
-    - AWS
-    - DigitalOcean
-    - LINE Bot
-- Other
-  - Linux Shell
-  - Docker, Docker Compose
+Typescript / React / Redux / Next / MaterialUI ...
